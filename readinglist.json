@@ -4,5 +4,17 @@
         "startDate": "2018-02-01",
         "endDate": "2019-01-08",
         "accurate": false
+    },
+    "Rework": {
+        "isbn": "978-0-09-192978-7",
+        "startDate": "2019-01-09",
+        "endDate": "2019-01-10",
+        "accurate": true
+    },
+    "Custom Reality And You": {
+        "isbn": "978-1-521-74104-7",
+        "startDate": null,
+        "endDate": null,
+        "accurate": true
     }
 }
